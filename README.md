@@ -41,7 +41,7 @@ The data used in this report represents **sales transactions** from the first qu
 ---
 
 ## 📸 Dashboard Preview
-*(Add screenshots of your dashboard here after uploading them to the repository)*
+https://github.com/aahmedghanem842-cpu/-Power-BI-dashboard-analyzing-sales-data-for-the-first-quarter-of-2019.-In/blob/main/Screenshot%202025-08-13%20183209.png
 
 ---
 
